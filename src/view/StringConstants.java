@@ -1,10 +1,10 @@
 package view;
 
 public interface StringConstants {
-    String NAME_INPUT_MESSAGE = "Input your name: ";
-    String SURNAME_INPUT_MESSAGE = "Input your surname: ";
-    String NICKNAME_INPUT_MESSAGE = "Input your nickname: ";
-    String NAME_ERROR = "Illegal input! Try again to enter your name";
-    String SURNAME_ERROR = "Illegal input! Try again to enter your surname";
-    String NICKNAME_ERROR = "Illegal input! Try again to enter your nickname";
+    String NAME_INPUT_MESSAGE = "input.name";
+    String SURNAME_INPUT_MESSAGE = "input.surname";
+    String NICKNAME_INPUT_MESSAGE = "input.nickname";
+    String NAME_ERROR = "illegal.name.input";
+    String SURNAME_ERROR = "illegal.surname.input";
+    String NICKNAME_ERROR = "illegal.nickname.input";
 }
