@@ -7,4 +7,8 @@ public interface StringConstants {
     String NAME_ERROR = "illegal.name.input";
     String SURNAME_ERROR = "illegal.surname.input";
     String NICKNAME_ERROR = "illegal.nickname.input";
+    String LOGIN_EXISTS_MESSAGE = "existing.nickname";
+    //String CHANGE_LANGUAGE = "change.language";
+
+    String MESSAGES_BUNDLE_NAME = "messages";
 }

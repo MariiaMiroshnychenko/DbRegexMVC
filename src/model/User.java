@@ -5,9 +5,6 @@ public class User {
     private String surname;
     private String login;
 
-    public User() {
-    }
-
     @Override
     public String toString() {
         return "User name: " + getName() + "\n" +
